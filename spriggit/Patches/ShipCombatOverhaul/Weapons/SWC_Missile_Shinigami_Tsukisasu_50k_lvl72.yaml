@@ -1,14 +1,15 @@
 FormKey: 150502:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWC_Missile_Shinigami_Tsukisasu_50k_lvl72
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 1.6796408E+31, 1.8493418E+31
 Name:
   TargetLanguage: English
   Value: Tsukisasu 40k missile launcher
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 1591DB:Starfield.esm
@@ -16,6 +17,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable

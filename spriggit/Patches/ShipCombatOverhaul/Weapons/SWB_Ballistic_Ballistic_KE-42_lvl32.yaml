@@ -1,14 +1,15 @@
 FormKey: 22F2BD:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWB_Ballistic_Ballistic_KE-42_lvl32
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 3248.0032, 1.509445E-19
 Name:
   TargetLanguage: English
   Value: KE-42 cannon
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 219A31:Starfield.esm
@@ -16,6 +17,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable

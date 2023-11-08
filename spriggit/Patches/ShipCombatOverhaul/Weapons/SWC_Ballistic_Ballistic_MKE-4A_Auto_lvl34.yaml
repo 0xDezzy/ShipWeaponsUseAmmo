@@ -1,14 +1,15 @@
 FormKey: 22F2B8:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWC_Ballistic_Ballistic_MKE-4A_Auto_lvl34
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 13434902, 11.261052
 Name:
   TargetLanguage: English
   Value: MKE-4A Auto Gauss Gun
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 2D60DB:Starfield.esm
@@ -16,6 +17,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable

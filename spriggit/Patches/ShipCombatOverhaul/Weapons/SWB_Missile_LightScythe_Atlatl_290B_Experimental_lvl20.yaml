@@ -1,14 +1,15 @@
 FormKey: 228D47:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWB_Missile_LightScythe_Atlatl_290B_Experimental_lvl20
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 6.116428E+31, 1.18175185E+27
 Name:
   TargetLanguage: English
   Value: Atlatl 290B Missile Launcher
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 1591DC:Starfield.esm
@@ -16,6 +17,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable

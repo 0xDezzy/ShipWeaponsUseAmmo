@@ -1,14 +1,15 @@
 FormKey: 22D1D5:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWA_Missile_Horizon_Infiltrator_SC-02_lvl64
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 1.5551663E+28, 7.492186E+31
 Name:
   TargetLanguage: English
   Value: Infiltrator SC-02 missile launcher
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 219000:Starfield.esm
@@ -16,6 +17,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable

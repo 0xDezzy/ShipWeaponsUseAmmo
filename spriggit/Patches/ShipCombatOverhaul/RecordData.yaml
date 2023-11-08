@@ -1,16 +1,16 @@
 SpriggitSource:
-  PackageName: Spriggit.Yaml.Skyrim
+  PackageName: Spriggit.Yaml.Starfield
   Version: 0.10.0
 ModKey: ShipWeaponsUseAmmo-ShipCombatOverhaul.esm
-GameRelease: SkyrimSE
+GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
-  FormVersion: 555
   Stats:
-    Version: 0.96
     NumRecords: 68
   Author: ''
   MasterReferences:
   - Master: Starfield.esm
+    FileSize: 0
   - Master: BlueprintShips-Starfield.esm
+    FileSize: 0

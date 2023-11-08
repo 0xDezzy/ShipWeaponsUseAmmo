@@ -1,14 +1,15 @@
 FormKey: 00424E:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWB_Ballistic_Vanguard_Hellfire_Auto_UC01
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 2.4672571E+20, 2.8573354E+32
 Name:
   TargetLanguage: English
   Value: Vangaurd Hellfire Autocannon
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 0638EB:Starfield.esm
@@ -17,6 +18,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable

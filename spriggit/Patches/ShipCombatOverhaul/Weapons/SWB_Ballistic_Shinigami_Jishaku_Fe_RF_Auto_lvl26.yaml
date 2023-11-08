@@ -1,14 +1,15 @@
 FormKey: 22F2A1:Starfield.esm
 MajorRecordFlagsRaw: 4
 EditorID: SWB_Ballistic_Shinigami_Jishaku_Fe_RF_Auto_lvl26
-FormVersion: 555
-SkyrimMajorRecordFlags:
+StarfieldMajorRecordFlags:
 - NotPlayable
+ObjectBounds:
+  Second: 53564696, 1.5262714E+25, 2.7250156E+26
 Name:
   TargetLanguage: English
   Value: Jishaku Fe RF railgun
 EquipmentType: 000046:Starfield.esm
-BlockBashImpact: 056A91:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
 Keywords:
 - 249FB6:Starfield.esm
 - 200A18:Starfield.esm
@@ -16,6 +17,13 @@ Keywords:
 Description:
   TargetLanguage: English
   Value: ''
-Unused: 0x00000000
+EmbeddedWeaponMod: Null
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
 MajorFlags:
 - NonPlayable
