@@ -1,0 +1,33 @@
+FormKey: 00080B:ShipWeaponsUseAmmo.esm
+EditorID: LL_Ammo_SWA_Horizon_GenericCannon
+ODTY: 0
+MaxCount: 0
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 25
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 50
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 75
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 100
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 125
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 150
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 175
+- Level: 1
+  Reference: 018DF1:Starfield.esm
+  Count: 200
+Model:
+  FLLD: 0x01000000

@@ -1,0 +1,36 @@
+FormKey: 00081D:ShipWeaponsUseAmmo.esm
+EditorID: LL_Ammo_SWB_Ballistic_GenericCannon
+ODTY: 0
+MaxCount: 0
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 25
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 50
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 75
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 100
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 125
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 150
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 150
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 175
+- Level: 1
+  Reference: 22F51C:Starfield.esm
+  Count: 200
+Model:
+  FLLD: 0x01000000

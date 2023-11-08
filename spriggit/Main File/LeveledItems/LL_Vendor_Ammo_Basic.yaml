@@ -1,0 +1,72 @@
+FormKey: 03F8E9:Starfield.esm
+MajorRecordFlagsRaw: 32768
+EditorID: LL_Vendor_Ammo_Basic
+StarfieldMajorRecordFlags:
+- VisibleWhenDistant
+ODTY: 0
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Level: 1
+  Reference: 279273:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279274:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279277:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279278:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279279:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 27927A:Starfield.esm
+  Count: 3
+- Level: 1
+  Reference: 27927B:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 27927C:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 27927D:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279280:Starfield.esm
+  Count: 28
+- Level: 1
+  Reference: 279281:Starfield.esm
+  Count: 7
+- Level: 1
+  Reference: 279282:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279283:Starfield.esm
+  Count: 12
+- Level: 1
+  Reference: 279284:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279286:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279287:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279288:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 279289:Starfield.esm
+  Count: 2
+- Level: 1
+  Reference: 2EF726:Starfield.esm
+  Count: 12
+- Level: 1
+  Reference: 00083D:ShipWeaponsUseAmmo.esm
+  Count: 25
+Model:
+  FLLD: 0x01000000

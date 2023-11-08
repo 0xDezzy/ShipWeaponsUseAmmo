@@ -1,0 +1,33 @@
+FormKey: 000814:ShipWeaponsUseAmmo.esm
+EditorID: LL_Ammo_SWB_Missile_Ballistic_CE-29
+ODTY: 0
+MaxCount: 0
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 3
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 6
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 9
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 12
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 15
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 18
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 21
+- Level: 1
+  Reference: 22D268:Starfield.esm
+  Count: 24
+Model:
+  FLLD: 0x01000000

@@ -1,0 +1,89 @@
+FormKey: 22D1BD:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Missile_LightScythe_Atlatl_280B_lvl48
+StarfieldMajorRecordFlags:
+- NotPlayable
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: Atlatl 280B missile launcher
+Model:
+  FLLD: 0x01000000
+EquipmentType: 000046:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 1591DF:Starfield.esm
+- 155C6C:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+EmbeddedWeaponMod: Null
+SightedTransitionSeconds: 0.25
+AimDownSightTemplate: 04B246:Starfield.esm
+AimModel: 1818D9:Starfield.esm
+AccuracyBonus: 5
+AmmoType: 22D230:Starfield.esm
+AmmoCapacity: 4
+ProjectilesCount: 1
+WAM2Unknown1: 1
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
+SoundLevel: Silent
+WAUDUnknown2: 3
+WTUR: 0x00000034C3000034430000B4C20000B44200003443000034430000803F
+ChargeCritBonus: 1
+AttackDamage: 5
+MinRange: 2000
+MaxRange: 4000
+OutOfRangeDamageMult: 1
+CritDamageMult: 2
+CriticalHitSpell: 02A6FB:Starfield.esm
+WDMGUnknown4: 1
+WDMGUnknown5: 1
+WDMGUnknown6: 1
+WDMGUnknown7: 1
+WDMGUnknown8: 1
+WDMGUnknown9: 1
+CritChanceIncMult: 1
+AttackSeconds: 1.118
+AttackDelaySeconds: 1
+ShotsPerSecond: 1
+WFIRUnknown7: 1
+TriggerThresholdPrimaryTrigger: 0.33
+TriggerThresholdSecondStage: 0.33
+HasStagedTrigger: True
+BurstDelaySeconds: 0.3
+NonPlayable: True
+CannotDrop: True
+WFLGUnknown4: True
+WGENUnknown1: 12
+BaseWeight: 3
+BaseSpeed: 1
+AttackOxygenCost: 300
+General: MSL
+WMELUnknown1: 2
+MeleeReach: 1
+MeleeStagger: Medium
+PowerRechargeTime: 15
+PowerRechargeDelay: 5
+ConsumeAmmo: True
+UsePower: True
+QNAMUnknown5: 1
+WRLOUnknown1: 1
+ReloadSpeed: 1
+FirstPersonModel:
+  File: ''
+  FLLD: 0x01000000
+ColorRemappingIndex: 3.4028235E+38
+WTRMUnknown1: 40
+WTRMUnknown3: 0.3
+WTRMUnknown4: 0.5
+WTRMUnknown5: 50
+MajorFlags:
+- NonPlayable

@@ -1,0 +1,92 @@
+FormKey: 22F2A2:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Ballistic_Shinigami_Jishaku_Fe_lvl22
+StarfieldMajorRecordFlags:
+- NotPlayable
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: Jishaku Fe railgun
+Model:
+  FLLD: 0x01000000
+EquipmentType: 000046:Starfield.esm
+BlockBashImpactDataSet: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 200A18:Starfield.esm
+- 022269:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+EmbeddedWeaponMod: Null
+SightedTransitionSeconds: 0.25
+AimDownSightTemplate: 04B246:Starfield.esm
+AimModel: 1818E3:Starfield.esm
+AccuracyBonus: 5
+AmmoType: 22F513:Starfield.esm
+ProjectilesCount: 1
+WAM2Unknown1: 1
+MeleeOrCreature: {}
+PrimedExplosive: {}
+DryFire: {}
+Idle: {}
+Equip: {}
+Unequip: {}
+FastEquip: {}
+SoundLevel: Silent
+WAUDUnknown2: 3
+WTUR: 0x00000034C3000034430000B4C20000B44200003443000034430000803F
+ChargeCritBonus: 1
+AttackDamage: 26
+MinRange: 500
+MaxRange: 1000
+OutOfRangeDamageMult: 0.5
+CritDamageMult: 2
+CriticalHitSpell: 02A6FD:Starfield.esm
+WDMGUnknown4: 1
+WDMGUnknown5: 1
+WDMGUnknown6: 1
+WDMGUnknown7: 1
+WDMGUnknown8: 1
+WDMGUnknown9: 1
+CritChanceIncMult: 1
+DamageTypes:
+- DamageType: 01EDE8:Starfield.esm
+  Value: 8
+RepeatableFire: True
+AttackSeconds: 0.25
+AttackDelaySeconds: 0.4
+DisableShellCaseEject: True
+ShotsPerSecond: 2.5
+WFIRUnknown7: 0.4
+OverrideRateOfFire: True
+TriggerThresholdPrimaryTrigger: 0.33
+TriggerThresholdSecondStage: 0.33
+HasStagedTrigger: True
+BurstDelaySeconds: 0.3
+NonPlayable: True
+CannotDrop: True
+WGENUnknown1: 12
+BaseWeight: 3
+BaseSpeed: 1
+AttackOxygenCost: 75
+General: BAL
+WMELUnknown1: 2
+MeleeReach: 1
+MeleeStagger: Medium
+PowerRechargeTime: 0.4
+ConsumeAmmo: True
+UsePower: True
+QNAMUnknown5: 1
+ReloadSpeed: 1
+FirstPersonModel:
+  File: ''
+  FLLD: 0x01000000
+ImpactDataSet: 137372:Starfield.esm
+ColorRemappingIndex: 3.4028235E+38
+WTRMUnknown1: 30
+WTRMUnknown3: 0.3
+WTRMUnknown4: 0.5
+WTRMUnknown5: 50
+MajorFlags:
+- NonPlayable
