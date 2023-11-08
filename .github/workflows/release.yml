@@ -15,7 +15,7 @@ jobs:
                   
           - name: Fetch spriggit
             shell: bash
-            run: wget "https://github.com/Mutagen-Modding/Spriggit/releases/download/0.10/SpriggitLinuxCLI.zip" -O spriggit.zip
+            run: gh release download -O .github/spriggit.zip -p 'SpriggitLinuxCLI.zip' -R Mutagen-Modding/Spriggit 0.10
             env:
               GH_TOKEN: ${{ github.token }}
               
