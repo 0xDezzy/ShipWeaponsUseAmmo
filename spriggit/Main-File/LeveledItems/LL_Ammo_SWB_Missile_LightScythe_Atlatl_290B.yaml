@@ -1,0 +1,39 @@
+FormKey: 00081A:ShipWeaponsUseAmmo.esm
+EditorID: LL_Ammo_SWB_Missile_LightScythe_Atlatl_290B
+FormVersion: 555
+Flags:
+- CalculateForEachItemInCount
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 3
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 6
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 9
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 12
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 15
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 18
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 21
+- Data:
+    Level: 1
+    Reference: 228D48:Starfield.esm
+    Count: 24

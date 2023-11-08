@@ -1,0 +1,53 @@
+FormKey: 0F65A4:Starfield.esm
+MajorRecordFlagsRaw: 32768
+EditorID: LL_Vendor_Ammo_Limited
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0E6AB1:Starfield.esm
+    Count: 5
+- Data:
+    Level: 1
+    Reference: 0FE1A8:Starfield.esm
+    Count: 5
+- Data:
+    Level: 1
+    Reference: 0FE1A9:Starfield.esm
+    Count: 5
+- Data:
+    Level: 1
+    Reference: 27927A:Starfield.esm
+    Count: 3
+- Data:
+    Level: 1
+    Reference: 27927C:Starfield.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 27927D:Starfield.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 279280:Starfield.esm
+    Count: 28
+- Data:
+    Level: 1
+    Reference: 279281:Starfield.esm
+    Count: 7
+- Data:
+    Level: 1
+    Reference: 279283:Starfield.esm
+    Count: 12
+- Data:
+    Level: 1
+    Reference: 2EF726:Starfield.esm
+    Count: 12
+- Data:
+    Level: 1
+    Reference: 00083D:ShipWeaponsUseAmmo.esm
+    Count: 12

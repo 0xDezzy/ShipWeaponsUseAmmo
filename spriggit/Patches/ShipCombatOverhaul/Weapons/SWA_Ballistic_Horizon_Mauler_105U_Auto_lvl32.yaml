@@ -1,0 +1,22 @@
+FormKey: 22F2B1:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_Ballistic_Horizon_Mauler_105U_Auto_lvl32
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Mauler 105U autocannon
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 0638EB:Starfield.esm
+- 2234DF:Starfield.esm
+- 022269:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

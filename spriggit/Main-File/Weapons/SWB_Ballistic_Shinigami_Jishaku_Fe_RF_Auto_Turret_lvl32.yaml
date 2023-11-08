@@ -1,0 +1,22 @@
+FormKey: 14A8BF:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Ballistic_Shinigami_Jishaku_Fe_RF_Auto_Turret_lvl32
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Jishaku Fe RF railgun turret
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 200A18:Starfield.esm
+- 022269:Starfield.esm
+- 32792C:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

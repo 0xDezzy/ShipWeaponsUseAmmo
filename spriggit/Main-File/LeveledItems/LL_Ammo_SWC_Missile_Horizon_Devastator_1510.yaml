@@ -1,0 +1,39 @@
+FormKey: 00082C:ShipWeaponsUseAmmo.esm
+EditorID: LL_Ammo_SWC_Missile_Horizon_Devastator_1510
+FormVersion: 555
+Flags:
+- CalculateForEachItemInCount
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 3
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 6
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 9
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 12
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 15
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 18
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 21
+- Data:
+    Level: 1
+    Reference: 22D26C:Starfield.esm
+    Count: 24

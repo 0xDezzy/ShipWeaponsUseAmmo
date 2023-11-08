@@ -1,0 +1,27 @@
+FormKey: 179DAD:Starfield.esm
+EditorID: SWB_AmmoMine_Ballistic_CEM55
+FormVersion: 555
+ObjectBounds:
+  First: 8192, -16429, -16384
+  Second: -16746, 16032, -17032
+Name:
+  TargetLanguage: English
+  Value: 'CE-155 Mine '
+Model:
+  File: SetDressing\crates\missiletubecrate\crate_missiletube_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 11A479:Starfield.esm
+- 0FAEC2:Starfield.esm
+Projectile: 000019:Starfield.esm
+Flags:
+- 0x400000
+- 0x40000000
+Damage: 202695740
+Value: 2645491728
+ShortName: Missile
+DATADataTypeState:
+- Break0

@@ -1,0 +1,38 @@
+FormKey: 000811:ShipWeaponsUseAmmo.esm
+EditorID: LL_Ammo_SWA_Shinigami_GenericCannon
+FormVersion: 555
+Flags:
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 25
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 50
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 75
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 100
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 125
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 150
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 175
+- Data:
+    Level: 1
+    Reference: 22F524:Starfield.esm
+    Count: 200

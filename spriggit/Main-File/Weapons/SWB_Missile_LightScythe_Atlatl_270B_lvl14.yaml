@@ -1,0 +1,21 @@
+FormKey: 22D1BE:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Missile_LightScythe_Atlatl_270B_lvl14
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Atlatl 270B missile launcher
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 1591DF:Starfield.esm
+- 155C6C:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

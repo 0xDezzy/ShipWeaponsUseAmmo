@@ -1,0 +1,21 @@
+FormKey: 22D1AF:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWC_Missile_Horizon_Devastator_1500_lvl44
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Devastator 1500 missile launcher
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 219002:Starfield.esm
+- 155C6C:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

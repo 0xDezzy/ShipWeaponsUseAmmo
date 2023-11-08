@@ -1,0 +1,21 @@
+FormKey: 22F2AC:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWC_Ballistic_Horizon_Marauder_114ANC_lvl20
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Marauder 114ANC Railgun
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 21A1BE:Starfield.esm
+- 022269:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

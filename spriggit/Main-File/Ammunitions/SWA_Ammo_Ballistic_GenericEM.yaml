@@ -1,0 +1,27 @@
+FormKey: 2184C0:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_Ammo_Ballistic_GenericEM
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+ObjectBounds:
+  First: 8192, -16429, -16384
+  Second: -16746, 16032, -17032
+Name:
+  TargetLanguage: English
+  Value: Class A Ballistic Solutions EM Battery
+Model:
+  File: SetDressing\crates\missileboxes\crate_missilebox_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Damage: 202695740
+Value: 1591017488
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

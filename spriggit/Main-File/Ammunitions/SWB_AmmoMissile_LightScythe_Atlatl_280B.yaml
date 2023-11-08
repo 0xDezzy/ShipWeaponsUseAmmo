@@ -1,0 +1,32 @@
+FormKey: 22D230:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_AmmoMissile_LightScythe_Atlatl_280B
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+ObjectBounds:
+  First: -8192, -16835, -24576
+  Second: -16936, -16384, -17166
+Name:
+  TargetLanguage: English
+  Value: Atlatl 280B Missile
+Model:
+  File: SetDressing\crates\missiletubecrate\crate_missiletube_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Projectile: 0000BE:Starfield.esm
+Flags:
+- 0x400000
+- 0x40000000
+Damage: 202695740
+Value: 1971716112
+ShortName: Missile
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

@@ -1,0 +1,21 @@
+FormKey: 22F2A0:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Ballistic_Shinigami_Jishaku_AlNiCo_lvl48
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Jishaku AlNiCo railgun
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 200A18:Starfield.esm
+- 022269:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

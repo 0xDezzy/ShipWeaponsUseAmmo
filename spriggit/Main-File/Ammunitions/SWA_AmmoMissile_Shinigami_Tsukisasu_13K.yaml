@@ -1,0 +1,32 @@
+FormKey: 22D22C:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_AmmoMissile_Shinigami_Tsukisasu_13K
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+ObjectBounds:
+  First: 24576, -16877, 16384
+  Second: -16947, 0, -17346
+Name:
+  TargetLanguage: English
+  Value: Tsukisasu 13K Missile
+Model:
+  File: SetDressing\crates\missiletubecrate\crate_missiletube_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Projectile: 000087:Starfield.esm
+Flags:
+- 0x400000
+- 0x40000000
+Damage: 202695740
+Value: 1969422352
+ShortName: Missile
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

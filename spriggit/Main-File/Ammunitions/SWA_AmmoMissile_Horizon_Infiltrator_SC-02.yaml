@@ -1,0 +1,29 @@
+FormKey: 22D239:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_AmmoMissile_Horizon_Infiltrator_SC-02
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Infiltrator SC-02 Missile
+Model:
+  File: SetDressing\crates\missiletubecrate\crate_missiletube_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Projectile: 000078:Starfield.esm
+Flags:
+- 0x400000
+- 0x40000000
+Damage: 202695740
+Value: 1972240400
+ShortName: Missile
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

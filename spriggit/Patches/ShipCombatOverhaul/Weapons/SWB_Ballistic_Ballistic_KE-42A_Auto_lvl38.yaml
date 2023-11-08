@@ -1,0 +1,21 @@
+FormKey: 22F2BC:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Ballistic_Ballistic_KE-42A_Auto_lvl38
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: KE-42A cannon
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 219A31:Starfield.esm
+- 022269:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

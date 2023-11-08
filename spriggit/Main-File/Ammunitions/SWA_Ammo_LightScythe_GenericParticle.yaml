@@ -1,0 +1,27 @@
+FormKey: 22F520:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_Ammo_LightScythe_GenericParticle
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+ObjectBounds:
+  First: 8192, -16429, -16384
+  Second: -16746, 16032, -17032
+Name:
+  TargetLanguage: English
+  Value: Class A Light Scythe Heavy Particle Fuse
+Model:
+  File: SetDressing\crates\missileboxes\crate_missilebox_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Damage: 202695740
+Value: 83558416
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

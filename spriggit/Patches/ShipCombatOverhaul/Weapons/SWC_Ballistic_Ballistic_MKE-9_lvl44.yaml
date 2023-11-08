@@ -1,0 +1,21 @@
+FormKey: 22F2B7:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWC_Ballistic_Ballistic_MKE-9_lvl44
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: MKE-9 Gauss Gun
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 2D60DB:Starfield.esm
+- 022269:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

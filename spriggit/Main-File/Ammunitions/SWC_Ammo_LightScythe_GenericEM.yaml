@@ -1,0 +1,27 @@
+FormKey: 2184AB:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWC_Ammo_LightScythe_GenericEM
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+ObjectBounds:
+  First: 24576, -16838, 0
+  Second: -16951, 16384, -17118
+Name:
+  TargetLanguage: English
+  Value: Class C Light Scythe EM Battery
+Model:
+  File: SetDressing\crates\missileboxes\crate_missilebox_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Damage: 202695740
+Value: 2226192400
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

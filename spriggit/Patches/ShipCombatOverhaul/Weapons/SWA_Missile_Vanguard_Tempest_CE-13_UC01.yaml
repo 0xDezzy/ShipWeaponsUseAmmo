@@ -1,0 +1,21 @@
+FormKey: 00424B:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_Missile_Vanguard_Tempest_CE-13_UC01
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Vanguard Tempest CE-13 Missile Launcher
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 1591E3:Starfield.esm
+- 155C6C:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

@@ -1,0 +1,21 @@
+FormKey: 22D1C9:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_Missile_Shinigami_Tsukisasu_19K_lvl52
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: Tsukisasu 19K missile launcher
+EquipmentType: 000046:Starfield.esm
+BlockBashImpact: 056A91:Starfield.esm
+Keywords:
+- 249FB6:Starfield.esm
+- 1591E1:Starfield.esm
+- 155C6C:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Unused: 0x00000000
+MajorFlags:
+- NonPlayable

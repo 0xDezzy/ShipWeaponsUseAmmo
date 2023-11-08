@@ -1,0 +1,28 @@
+FormKey: 22F513:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWB_Ammo_Shinigami_GenericCannon
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+ObjectBounds:
+  First: 0, -16866, 0
+  Second: -17034, -16384, -17166
+Name:
+  TargetLanguage: English
+  Value: Class B Shinigami Ammo
+Model:
+  File: SetDressing\crates\missileboxes\crate_missilebox_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Projectile: 000014:Starfield.esm
+Damage: 202695740
+Value: 84279312
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable

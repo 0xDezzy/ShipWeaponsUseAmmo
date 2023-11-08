@@ -1,0 +1,29 @@
+FormKey: 004249:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: SWA_AmmoMissile_Vanguard_Tempest_CE-13_UC01
+FormVersion: 555
+SkyrimMajorRecordFlags:
+- NotPlayable
+Name:
+  TargetLanguage: English
+  Value: CE-13 Missile
+Model:
+  File: SetDressing\crates\missiletubecrate\crate_missiletube_01.nif
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Starfield.esm
+- 0FAEC2:Starfield.esm
+- 11A479:Starfield.esm
+Projectile: 000069:Starfield.esm
+Flags:
+- 0x400000
+- 0x40000000
+Damage: 202695740
+Value: 1112342544
+ShortName: Missile
+DATADataTypeState:
+- Break0
+MajorFlags:
+- NonPlayable
